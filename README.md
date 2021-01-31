@@ -12,6 +12,9 @@ Forum - The page where users can join support groups
 Your Tasks - The page where user will get the two tasks eachday to complete
 Profile - User profile
 Login and Sign Up pages
+
+## Home page
+
  
 ## Inspiration
 We know that today every other person is addicted to either smoking, drinking , porn, video games. We wanted to do something for the social good which was when we came up with the idea of creating this website "DETOX" which would guide a person through their addiction recovery.
