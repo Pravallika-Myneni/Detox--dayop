@@ -1,5 +1,7 @@
-# DETOX-dayop
+# DETOX-DAYOP
 ##@ Deaddiction At your Own Pace
+## Introduction
+Addiction is a psychological and physical inability to stop consuming a chemical, drug, activity, or substance, even though it is causing psychological and physical harm. When a person experiences addiction, they cannot control how they use a substance or partake in an activity, and they become dependent on it to cope with daily life. However, addiction can take over and reduce self-control. Our Project is an effort towards helping a person to overcome addiction with the help of commuity and a set of daily tasks
 ## Technology Stack:
  HTML
  CSS
@@ -12,8 +14,6 @@ Forum - The page where users can join support groups
 Your Tasks - The page where user will get the two tasks eachday to complete
 Profile - User profile
 Login and Sign Up pages
-
-## Home page
 
  
 ## Inspiration
